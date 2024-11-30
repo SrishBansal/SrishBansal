@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## About Me
-Hello, I'm **Srish Bansal**—a passionate student and **AI enthusiast** focused on building impactful solutions through technology. With over **80+ LeetCode problems solved** and experience as a **contributor at Timechain Summer of Code**, I specialize in **machine learning**, **Python**, and **SQL**.
+Hello, I'm **Srish Bansal**—a passionate student and **AI and Web3 enthusiast** focused on building impactful solutions through technology. Currently a **contributor at Timechain Summer of Code**, I specialize in **machine learning**, **Python**, and **SQL**.
 
 🚀 **Currently exploring:**  
 - 🧠 **AI models** for real-world applications  
