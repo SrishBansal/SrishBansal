@@ -5,7 +5,7 @@ Hello, I'm **Srish Bansal**—a passionate student and **AI and Web3 enthusiast*
 
 😎**Hactober 2024**
 
-![Holopin Badge](https://holopin.io/api/badges/embed/SrishBansal)
+![Holopin Badge](https://holopin.me/srishbansal)](https://holopin.io/@srishbansal)
 
 🚀 **Currently exploring:**  
 - 🧠 **AI models** for real-world applications  
