@@ -58,8 +58,3 @@ I'm always open to collaborating on exciting projects, so feel free to reach out
 
 ---
 
-### 🚀 Contribution Graph
-![Srish's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=SrishBansal&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00)
-
-
-
