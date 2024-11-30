@@ -3,7 +3,7 @@
 ## About Me
 Hello, I'm **Srish Bansal**—a passionate student and **AI and Web3 enthusiast** focused on building impactful solutions through technology. Currently a **contributor at Timechain Summer of Code**, I specialize in **machine learning**, **Python**, and **SQL**.
 
-😎**Hacthoberfest 2024**
+😎# **Hacthoberfest 2024**
 
 ![Holopin Badge](https://holopin.me/srishbansal)(https://holopin.io/@srishbansal)
 
