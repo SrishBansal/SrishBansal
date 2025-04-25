@@ -54,7 +54,5 @@ Here's a quick overview of my technical stack:
 I'm always open to collaborating on exciting projects, so feel free to reach out to me!
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srish%20Bansal-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/srishbansal)
-- [![Email](https://img.shields.io/badge/Email-srishbansal%40gmail.com-red?style=flat-square&logo=gmail)](mailto:besrish.work@gmail.com)
-
 ---
 
